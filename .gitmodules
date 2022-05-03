@@ -21,4 +21,4 @@
 [submodule "qmk_metrics_aggregator"]
 	path = qmk_metrics_aggregator
 	url = https://github.com/balloondogcaps/qmk_metrics_aggregator.git
-	branch = .
+	branch = main
